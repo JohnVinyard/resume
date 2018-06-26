@@ -1,10 +1,9 @@
 body {
-	font-family: 'Open Sans Condensed';
+	font-family: 'Lato', sans-serif;
 	background-color:#eee;
-	text-shadow: white 0.1em 0.1em 0.2em;
 }
 body,p {
-	color:#333;
+	color:#111;
 }
 a {
 	color:#955;
@@ -27,18 +26,18 @@ h1 {
 	margin-left:0px;
 	margin-right:0px;
 	line-height: 1em;
-	font-size:1.7em;
+	font-size:1.3em;
 }
 .profile h1,.tech h1,.experience h1 {
 	font-style:italic;
 }
 h2 {
 	margin: 5px 0px;
-	font-size:1.5em;
+	font-size:1.2em;
 }
 h3 {
 	margin: 2.5px 0px;
-	font-size:1.3em;
+	font-size:1.1em;
 }
 p,ul {
 	margin: 5px 0px;
